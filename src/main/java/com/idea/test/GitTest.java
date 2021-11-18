@@ -14,5 +14,7 @@ public class GitTest {
         System.out.println("就是要3git");
         System.out.println("就是要3git");
         System.out.println("push git");
+        
+        System.out.println("pull git");
     }
 }
